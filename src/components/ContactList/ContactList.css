@@ -1,0 +1,26 @@
+.list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.buttonList {
+  height: 30px;
+  background-color: #d93535;
+  text-transform: uppercase;
+  border-radius: 10px;
+  border: 1px solid #ff2f2f;
+  margin-left: 10px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+li {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name {
+  font-weight: 700;
+}
